@@ -1,0 +1,18 @@
+{
+  "firstName": "Test",
+  "lastName": "User",
+  "username": "TN14 user",
+  "email": "TN14@witwiser.io",
+  "phoneNumber": "+905000000000",
+  "location": "Istanbul",
+  "account": "Witwiser",
+  "department": "Yok",
+  "expertises": [
+    "JAVA"
+  ],
+  "rank": "A1",
+  "gender": "MALE",
+  "labels": [
+    "NEW_USER"
+  ]
+}
